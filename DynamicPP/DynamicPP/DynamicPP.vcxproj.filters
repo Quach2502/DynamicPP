@@ -18,5 +18,8 @@
     <ClCompile Include="parenthesization_problem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="longestsubsequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
