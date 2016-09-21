@@ -1,11 +1,14 @@
-﻿  longestsubsequence.cpp
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(31): warning C4018: '<': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(33): warning C4018: '<': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(37): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(41): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(46): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(48): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(26): warning C4101: 'j': unreferenced local variable
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\longestsubsequence.cpp(26): warning C4101: 'i': unreferenced local variable
+﻿  parenthesization_problem.cpp
+  LCS.cpp
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(37): warning C4018: '<=': signed/unsigned mismatch
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(41): warning C4018: '<=': signed/unsigned mismatch
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(46): warning C4018: '<=': signed/unsigned mismatch
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(48): warning C4018: '<=': signed/unsigned mismatch
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(26): warning C4101: 'j': unreferenced local variable
+c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(26): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  LINK : C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\DynamicPP.exe not found or not built by the last incremental link; performing full link
   DynamicPP.vcxproj -> C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\DynamicPP.exe
   DynamicPP.vcxproj -> C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\DynamicPP.pdb (Partial PDB)
