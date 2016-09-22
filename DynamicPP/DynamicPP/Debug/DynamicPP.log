@@ -1,14 +1,3 @@
-﻿  parenthesization_problem.cpp
-  LCS.cpp
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(31): warning C4018: '<': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(33): warning C4018: '<': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(37): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(41): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(46): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(48): warning C4018: '<=': signed/unsigned mismatch
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(26): warning C4101: 'j': unreferenced local variable
-c:\users\t_quacd\myproject\dynamicpp\dynamicpp\dynamicpp\lcs.cpp(26): warning C4101: 'i': unreferenced local variable
-  Generating Code...
-  LINK : C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\DynamicPP.exe not found or not built by the last incremental link; performing full link
-  DynamicPP.vcxproj -> C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\DynamicPP.exe
-  DynamicPP.vcxproj -> C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\DynamicPP.pdb (Partial PDB)
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DynamicPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DynamicPP.vcxproj -> C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\LCS.exe
+  DynamicPP.vcxproj -> C:\Users\t_quacd\MyProject\DynamicPP\DynamicPP\Debug\LCS.pdb (Partial PDB)

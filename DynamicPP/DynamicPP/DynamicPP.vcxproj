@@ -22,6 +22,7 @@
     <ProjectGuid>{00162145-3035-4D3F-A3CD-569732EFA1E3}</ProjectGuid>
     <RootNamespace>DynamicPP</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>LCS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -111,7 +112,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="LCS.cpp" />
-    <ClCompile Include="parenthesization_problem.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
